@@ -11,5 +11,7 @@ Originally extracted with 19 features of products, only 7 have been considered a
 The .json file exceeded the size limit, hence couldn't be uploaded. However the image files and other folders are present in this repository.
 
 To get started with the setup, follow the links below:
+
 1- https://www.youtube.com/watch?time_continue=2&v=yhIYS5lYG-0
+
 2- https://www.youtube.com/watch?time_continue=14&v=r5B20yNuSO0
